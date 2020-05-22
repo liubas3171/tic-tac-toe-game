@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-### Start main.py and enjoy a game.
+### World-famous game finally on the PC, Start game.py and enjoy a game.
